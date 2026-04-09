@@ -1,0 +1,29 @@
+body{
+    display: flex ;
+    justify-content:center ;   /*
+    horizontal-center */
+
+    align-items: center ;    /*
+    vertical center */
+    height : 100vh;
+    flex-direction: column
+}
+h1{
+    color: rgb(44, 10, 139);
+}
+h5{
+    color: brown;
+}
+body{
+    background-color: rgba(245, 5, 5, 0.574);
+}
+button{
+    background-color: blue;
+    color: aliceblue;
+    
+}
+body{
+    h4{
+        margin-bottom: 1px;
+    }
+}
